@@ -19,6 +19,7 @@
 ### Articles
 - [dotnet-scriptを使ってC#でも書き捨てプログラムを](https://oucc.org/blog/articles/908/)
 - [latexmkに追加の処理を挿入して句読点を置換したい](https://qiita.com/gs7itisitcat/items/19fe266561ebc82b35ee)
+- [Slang Shaderをminimalに動かす](https://oucc.org/blog/articles/2024-12-31-slang/)
 <!--
 **Gs-itisitcat/Gs-itisitcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
