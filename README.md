@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gs-itisitcat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Gs-itisitcat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gs-itisitcat&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gs-itisitcat&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gs-itisitcat&count_private=true&show_icons=true&theme=radical)
 -->
